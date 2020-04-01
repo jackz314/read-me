@@ -6,13 +6,17 @@
 More interesting and useful extra features being added from time to time.
 
 ## Features
-- Real-time transcription
+- Real-time transcription & translation
 - Local/Remote camera control (brightness, focus, zoom, etc.)
 - Double camera support
-- Video/Audio conferencing (single party for now)
+- Video/Audio conferencing
+- Video/Audio sharing during calls
 - Texting
 - File transferring
 - Reminder for calls
+- Noise cancellation
+- Background blurring
+- Call preview
 - ...... (more on the way)
 
 ## Library
