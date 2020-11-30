@@ -29,8 +29,8 @@ GreatFinds is a platform that allows users to share and discover all kinds of me
 * [TheMovieDB API](https://github.com/holgerbrandl/themoviedbapi) ([TMDb API](https://api.tmdb.org) wrapper)
 
 ### Screenshots
-<img src="https://i.imgur.com/w24ElRA.png" width="500" />
-<img src="https://i.imgur.com/0xwfKUf.png" width="500" />
-<img src="https://i.imgur.com/LNHP9k6.png" width="500" />
-<img src="https://i.imgur.com/ufM3aJc.png" width="500" />
-<img src="https://i.imgur.com/2mU3DvM.png" width="500" />
+![image1](https://i.imgur.com/w24ElRA.png)
+![image2](https://i.imgur.com/0xwfKUf.png)
+![image3](https://i.imgur.com/LNHP9k6.png)
+![image4](https://i.imgur.com/ufM3aJc.png)
+![image5](https://i.imgur.com/2mU3DvM.png)
