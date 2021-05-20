@@ -1,7 +1,7 @@
 # GreatFinds
 Public version published at [GreatFinds.ml](https://greatfinds.ml) (possibly unstable due to deployment limitations).
 
-CS201 Final Project
+USC CS201 Final Project
 
 ### Overview
 GreatFinds is a platform that allows users to share and discover all kinds of media content (books, movies, TVs, etc.) in the form of a personalized feed.
