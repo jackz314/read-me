@@ -17,6 +17,9 @@ The computer decides randomly based on the search results.
 
 ### Screenshots
 ![sc3.png](screenshots/sc3.png)
+
 ![sc4.png](screenshots/sc4.png)
+
 ![sc1.png](screenshots/sc1.png)
+
 ![sc2.png](screenshots/sc2.png)
